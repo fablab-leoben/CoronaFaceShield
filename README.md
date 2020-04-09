@@ -1,2 +1,6 @@
 # CoronaFaceShield
-Collection of Face Shields that we offer
+Collection of face shields for personal protection.
+
+FabLabLeoben-FaceSchieldV1.stl is a face shield.
+
+
